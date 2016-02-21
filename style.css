@@ -1,0 +1,28 @@
+.classdiv {
+  background-color: #111188;
+  margin-left: auto;
+  margin-right: auto;
+  height:100px;
+  width:300px;
+  border-radius: 12px;
+  margin-bottom: 20px;
+  box-sizing: border-box;
+  transition: background-color 3s;
+
+  }
+
+.classdiv:hover {
+  border: 5px solid #ccaa33;
+  }
+
+.un {
+  margin-top: 50px;
+}
+
+.clicked {
+  background-color: #ccaa33;
+}
+
+.clicked:hover {
+  border: 5px solid #111188;
+}
